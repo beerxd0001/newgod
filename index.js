@@ -37,13 +37,13 @@ client.on('ready', async () => {
     const change = ['https://cdn.discordapp.com/attachments/1070765609559785583/1229121789376991262/4D557C8B-F244-4DE5-8795-313F0BA1B10F.gif?ex=662e87de&is=661c12de&hm=d6df66ef285f9a206e95acaa0ecb0d69a282468c27256724755b8b0c8c7fbc1e&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
      //const change2 = ['']; // ชื่อสลับ
-    const yyyt = ['']; // ชื่อ button2
+   // const yyyt = ['']; // ชื่อ button2
     const ddds = ['https://discord.gg/mygv2']; // ลิ้ง button1
 
    const iooi = ['💦  My Gang 🌊']; // ชื่อ button 1
-  const iiio = [']; // ลิ้ง button 2
-  const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
-  const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
+ // const iiio = [']; // ลิ้ง button 2
+ // const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
+ // const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
    const oooi = 
 iiio[Math.floor(Math.random()*iiio.length)]; // button 1 ใส่ลิ้ง
     const ioii =
