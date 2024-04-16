@@ -49,7 +49,7 @@ iiio[Math.floor(Math.random()*iiio.length)]; // button 1 ใส่ลิ้ง
     const ioii =
 iooi[Math.floor(Math.random()*iooi.length)]; // button 1 ใส่ชื่อ
     const popp =
-poop[Math.floor(Math.random()*poop.length)]; // รูปเล็ก
+// poop[Math.floor(Math.random()*poop.length)]; // รูปเล็ก
     const ssss = 
 change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
     //const dwada = change2[Math.floor(Math.random()*change2.length)]; // ชื่อสลับคำ
