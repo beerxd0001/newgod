@@ -34,7 +34,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1070765609559785583/1229121788378746962/6386BE64-0DFB-474C-B202-9F8A90BB3ADB.gif?ex=662e87de&is=661c12de&hm=81b079931db50b4b92dcb10ad51909bd6cfa07374200745c11948ef37946e0c4&']; //รูปใหญ่
+    const change = ['https://cdn.discordapp.com/attachments/1070765609559785583/1229121789779775529/45BA2E07-5067-4AF2-BCF0-FFC32FCE5E24.gif?ex=662e87de&is=661c12de&hm=3a7a395bf095f8dc672dc946be2cb34ae49d9ead4b135bc1ddea6d7dff103cea&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
      //const change2 = ['']; // ชื่อสลับ
   const yyyt = ['💦  My Gang 🌊']; // ชื่อ button2
@@ -58,7 +58,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
       .setType('STREAMING')
       .setURL('https://www.youtube.com/watch?v=Wq4fctOxTYY')
       .setState(`Discord`)
-      .setName(`🎮`)
+      .setName(`YouTube`)
       .setDetails(`เชื่อใจใน My G`)
       //.setAssetsSmallImage(`${popp}`) 
 .setAssetsLargeImage(`${ssss}`)
