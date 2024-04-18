@@ -37,11 +37,11 @@ client.on('ready', async () => {
     const change = ['https://cdn.discordapp.com/attachments/1227927155732774995/1227927385152684093/6CAECF6A-DC7E-47F6-A2EF-A4BD2D48D4EE.gif?ex=662a2f7e&is=6617ba7e&hm=1c4c756420069e4eb68c9d99315055384e4724712270b1f9272cd05942209343&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
      //const change2 = ['']; // ชื่อสลับ
-    const yyyt = ['⪩ kungYuna']; // ชื่อ button2
-    const ddds = ['https://www.instagram.com/yoojiwuw_/?igsh=bHljdTAzMDd1ZzQ1&utm_source=qr']; // ลิ้ง button1
+  //  const yyyt = ['💦  My Gang 🌊']; // ชื่อ button2
+  //  const ddds = ['https://discord.gg/mygv2']; // ลิ้ง button1
 
-   const iooi = ['Join server ᩍ']; // ชื่อ button 1
-   const iiio = ['https://discord.com/invite/jzpRQEb3GY']; // ลิ้ง button 2
+   const iooi = ['💦  My Gang 🌊']; // ชื่อ button 1
+   const iiio = ['https://discord.gg/mygv2']; // ลิ้ง button 2
    const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
    const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
    const oooi = 
@@ -66,7 +66,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
 .setAssetsSmallText(`ping : ${Math.round(client.ws.ping)}`)
 .addButton(`${ioii}`,`${oooi}`)  
 
-      .addButton(`${tyyy}`,`${sddd}`)
+    //  .addButton(`${tyyy}`,`${sddd}`)
 //.setStartTimestamp("1672545600" || Date.now())
 //.setEndTimestamp("1704077999" || Date.now())
     client.user.setActivity(r);
