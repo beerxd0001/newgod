@@ -34,7 +34,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1070765609559785583/1229121789779775529/45BA2E07-5067-4AF2-BCF0-FFC32FCE5E24.gif?ex=662e87de&is=661c12de&hm=3a7a395bf095f8dc672dc946be2cb34ae49d9ead4b135bc1ddea6d7dff103cea&']; //รูปใหญ่
+    const change = ['https://cdn.discordapp.com/attachments/1070765609559785583/1235440668428730429/24be30e6aa12792e58f1af96c762679d.gif?ex=66346148&is=66330fc8&hm=538a00a24fc96e12c76669966de194e519cce54f1748b82a7063cd0e5edd45b2&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
      //const change2 = ['']; // ชื่อสลับ
   const yyyt = ['💦  My Gang 🌊']; // ชื่อ button2
