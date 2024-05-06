@@ -35,7 +35,7 @@ client.on('ready', async () => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
     const change = ['https://cdn.discordapp.com/attachments/1070765609559785583/1236175585470976102/B991492D-C00D-4554-9375-E309F63C01F1.gif?ex=6639b0ba&is=66385f3a&hm=40706310d81c180c1712cb3787230d26525bff798092074895194e80f41ae740&']; //รูปใหญ่
-     //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
+    const poop = ['https://emoji.discadia.com/emojis/c6bae7ae-eee1-4b05-9bde-d3a664a5e1d3.gif']; // รูปเล็ก
      //const change2 = ['']; // ชื่อสลับ
   const yyyt = ['💦  My Gang 🌊']; // ชื่อ button2
   const ddds = ['https://discord.gg/mygv2']; // ลิ้ง button1
@@ -60,7 +60,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
       .setState(`Discord`)
       .setName(`YouTube`)
       .setDetails(`เชื่อใจใน My G`)
-      //.setAssetsSmallImage(`${popp}`) 
+      .setAssetsSmallImage(`${popp}`) 
 .setAssetsLargeImage(`${ssss}`)
 .setAssetsLargeText(`🕐 ${getTime()}  ${moment().format(' 📅 DD/MM/YYYY ')}`)
 .setAssetsSmallText(`ping : ${Math.round(client.ws.ping)}`)
