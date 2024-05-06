@@ -35,7 +35,7 @@ client.on('ready', async () => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
     const change = ['https://cdn.discordapp.com/attachments/1070765609559785583/1236175585470976102/B991492D-C00D-4554-9375-E309F63C01F1.gif?ex=6639b0ba&is=66385f3a&hm=40706310d81c180c1712cb3787230d26525bff798092074895194e80f41ae740&']; //รูปใหญ่
-    const poop = ['https://cdn.discordapp.com/attachments/1070765609559785583/1234207153183785001/6148901D-2613-4BCA-B7F3-2325223F30DD.gif?ex=6639c7bb&is=6638763b&hm=83a4d6f5be8fa35ef2142f5bd9caf7be2c311b193a749f579b37234c1de96a16&']; // รูปเล็ก
+    const poop = ['https://cdn.discordapp.com/emojis/1230961051655213077.gif?size=96&quality=lossless']; // รูปเล็ก
      //const change2 = ['']; // ชื่อสลับ
   const yyyt = ['💦  My Gang 🌊']; // ชื่อ button2
   const ddds = ['https://discord.gg/mygv2']; // ลิ้ง button1
