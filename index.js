@@ -34,8 +34,8 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1070765609559785583/1235440668428730429/24be30e6aa12792e58f1af96c762679d.gif?ex=663d9bc8&is=663c4a48&hm=68bc1a44f92eab5858bcef6f2363469e8aeecf108dc15e911904013df1fa6c43&']; //รูปใหญ่
-    const poop = ['https://cdn.discordapp.com/emojis/1230961051655213077.gif?size=96&quality=lossless']; // รูปเล็ก
+    const change = ['https://cdn.discordapp.com/attachments/1070765609559785583/1238802807956705321/1F47C84F-9016-435B-A4CB-8F5440111A47.gif?ex=66409c85&is=663f4b05&hm=0486886c40030abd8bf2e0e96a38685ff461eac25afc07759a725919485c4d56&']; //รูปใหญ่
+   // const poop = ['https://cdn.discordapp.com/emojis/1230961051655213077.gif?size=96&quality=lossless']; // รูปเล็ก
      //const change2 = ['']; // ชื่อสลับ
   const yyyt = ['💦  My Gang 🌊']; // ชื่อ button2
   const ddds = ['https://discord.gg/mygv2']; // ลิ้ง button1
@@ -48,8 +48,8 @@ client.on('ready', async () => {
 iiio[Math.floor(Math.random()*iiio.length)]; // button 1 ใส่ลิ้ง
     const ioii =
 iooi[Math.floor(Math.random()*iooi.length)]; // button 1 ใส่ชื่อ
-    const popp =
-poop[Math.floor(Math.random()*poop.length)]; // รูปเล็ก
+  //  const popp =
+//poop[Math.floor(Math.random()*poop.length)]; // รูปเล็ก
     const ssss = 
 change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
     //const dwada = change2[Math.floor(Math.random()*change2.length)]; // ชื่อสลับคำ
@@ -60,7 +60,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
       .setState(`Discord`)
       .setName(`YouTube`)
       .setDetails(`เชื่อใจใน My G`)
-      .setAssetsSmallImage(`${popp}`) 
+    //  .setAssetsSmallImage(`${popp}`) 
 .setAssetsLargeImage(`${ssss}`)
 .setAssetsLargeText(`🕐 ${getTime()}  ${moment().format(' 📅 DD/MM/YYYY ')}`)
 .setAssetsSmallText(`ping : ${Math.round(client.ws.ping)}`)
